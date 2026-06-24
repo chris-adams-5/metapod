@@ -21,4 +21,3 @@ Let's get started :runner: Have fun and embrace the journey!
 
 ### Resources
 You will find relevant resources in each of the Trello board tickets.
-meh
